@@ -1,6 +1,7 @@
 ﻿#include "dialog.h"
 #include "ui_dialog.h"
 #include <QDir>
+#include <iostream>
 #include <QFileDialog>
 #include <QFileInfo>
 
